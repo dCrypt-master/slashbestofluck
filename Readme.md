@@ -1,6 +1,6 @@
 # dCrypt-Master
 
-<!-- #6299 -->
+
 So you have got here hmm?
 
 ## What to do?
@@ -12,4 +12,4 @@ You may not need to add him...
 or do you?
 ```
 
-<!-- i will say this once, " Remember me. I might come in handy later" -->
+
