@@ -1,6 +1,5 @@
 # dCrypt-Master
-
-
+<!-- I am a function that you might have to call -->
 So you have got here hmm?
 
 ## What to do?
